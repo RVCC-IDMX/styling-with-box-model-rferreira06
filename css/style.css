@@ -14,4 +14,7 @@
   .box-two {
     background-color: green;
     border: 0 solid darkslateblue;
+    padding: 20px;
+    margin: 20 px;
+    border-width: 20px;
   } 
